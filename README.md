@@ -3,4 +3,6 @@ Java Project based ATM Simulator System. It functions similarly to the normal AT
 
 
 Technologies Used: Core Java (Swing & AWT)
+
+
 Database Used: MySQL
